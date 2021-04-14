@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DrLongVo
 - 👀 I’m interested in Business Analytics in general and Marketing Analytics in particular.
 - 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Business Analytics and Marketing Analytics.
+- 💞️ I’m looking to collaborate on Business Analytics and Marketing Analytics and research related to these areas.
 - 📫 How to reach me: vtlong05@gmail.com
 
 <!---
